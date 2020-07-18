@@ -1,1 +1,2 @@
-export * from './label'
+export * from './card'
+export * from './card-label'
