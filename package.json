@@ -1,5 +1,5 @@
 {
-  "name": "uibook",
+  "name": "@devcord/uibook",
   "version": "0.0.1",
   "description": "JULY TOTM: #Storybook - lets build a component library.",
   "main": "esm/index.js",
