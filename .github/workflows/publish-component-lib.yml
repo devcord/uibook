@@ -5,7 +5,7 @@ on:
     tags:
       - v*.*.*
 
-job:
+jobs:
   publish-gpr:
     runs-on: ubuntu-latest
     steps:
