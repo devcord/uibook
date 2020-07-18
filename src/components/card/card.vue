@@ -1,5 +1,6 @@
 <template lang="pug">
-    h1 {{ text }}
+    .bg-white.shadow-md.rounded-lg.p-4
+        p {{ text }}
 </template>
 
 <script>
